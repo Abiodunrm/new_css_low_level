@@ -1,2 +1,3 @@
 # new_css_low_level
-css codes gift items
+This file im the repository creates a source code for the creation of Abbey Art hub
+
